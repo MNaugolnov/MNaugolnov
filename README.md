@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 **Languages:**  
 
 ### Languages
-![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white)
-![Microsoft Office VBA](https://img.shields.io/badge/-Microsoft%20Office%20VBA-B7472A?logo=microsoft-office&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-4479A1?logo=oracle&logoColor=white)
 ![Oracle PL/SQL](https://img.shields.io/badge/-Oracle%20PL%2FSQL-F80000?logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white)
+![VBA](https://img.shields.io/badge/-Microsoft%20Office%20VBA-B7472A?logo=microsoft-office&logoColor=white)
 
 ### Libraries & Frameworks
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
