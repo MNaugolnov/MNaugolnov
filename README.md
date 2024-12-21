@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Привет, я [Михаил] 👋
+# My name is Mikhail 👋
 
 ![GitHub Banner](https://optim.tildacdn.pub/tild6361-3136-4635-b434-376265373532/-/resize/720x/-/format/webp/Mikhail-2048x2048.jpg) <!-- Замените ссылку на своё изображение -->
 
 ## 👩‍💻 Обо мне  
-- 🌱 Сейчас изучаю **Pytorch и TenzorFlow**  
+- 🌱 Сейчас изучаю **Pytorch и TenzorFlow**
 - 💼 Работаю как **R&D Engineering Manager | Development TeamLead**  
 - ⚡ Люблю участвовать в Open Source проектах  
 
