@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 <!--  ![GitHub Banner](https://optim.tildacdn.pub/tild6361-3136-4635-b434-376265373532/-/resize/720x/-/format/webp/Mikhail-2048x2048.jpg) Замените ссылку на своё изображение -->
 
-## 👩‍💻 Обо мне  
-- 🌱 Сейчас изучаю **Pytorch и TenzorFlow**
-- 💼 Работаю как **R&D Engineering Manager | Development TeamLead**  
-- ⚡ Люблю участвовать в Open Source проектах  
+## 👩‍💻 About myself
+- 🔭 I’m currently working as **R&D Engineering Manager | Development TeamLead**  
+- 🌱 I’m currently learning **Pytorch и TenzorFlow**
+- 👯 I’m looking to collaborate on **Data Science in Oil & Gas**
+- 💬 Ask me about **Data Science & Machine Learning in Oil & Gas**
 
 ## 🚀 Навыки  
 **Языки программирования:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 **Инструменты:**  
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
 ## 📫 Контакты  
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/yourusername)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/naugolnov)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/naugolnov)  
