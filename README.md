@@ -22,14 +22,34 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Data Science in Oil & Gas**
 - 💬 Ask me about **Data Science & Machine Learning in Oil & Gas**
 
-## 🚀 Навыки  
-**Языки программирования:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+## 🚀 Skills  
+**Languages:**  
 
-**Инструменты:**  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+### Languages
+![VBA](https://img.shields.io/badge/-VBA-217346?logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white)
 
-## 📫 Контакты  
+### Libraries & Frameworks
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+
+### Development Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Project Management
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+
+## 📫 Contacts  
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/naugolnov)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/naugolnov)  
