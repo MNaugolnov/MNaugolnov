@@ -62,8 +62,3 @@ My other pages: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=
 ## 📫 Contacts  
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/naugolnov)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/naugolnov)  
-
-
-## 💼 Опыт работы
-
-
