@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Data Science & Machine Learning in Oil & Gas**
 
 My other pages: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-naugolnov/) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mikhail-Naugolnov) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zwcguRsAAAAJ&hl)
- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MNaugolnov)
 
 ## 🚀 Skills  
 **Languages:**  
@@ -67,7 +66,4 @@ My other pages: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=
 
 ## 💼 Опыт работы
 
-![TotalEnergies](https://img.shields.io/badge/-TotalEnergies-FF0000?logo=totalenergies&logoColor=white)
-![NIS](https://img.shields.io/badge/-NIS-005BAC?logo=nis&logoColor=white)
-![Gazpromneft](https://img.shields.io/badge/-Gazpromneft-0047AB?logo=gazprom&logoColor=white)
 
