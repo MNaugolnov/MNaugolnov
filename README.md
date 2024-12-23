@@ -63,3 +63,11 @@ My other pages: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=
 ## 📫 Contacts  
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/naugolnov)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/naugolnov)  
+
+
+## 💼 Опыт работы
+
+![TotalEnergies](https://img.shields.io/badge/-TotalEnergies-FF0000?logo=totalenergies&logoColor=white)
+![NIS](https://img.shields.io/badge/-NIS-005BAC?logo=nis&logoColor=white)
+![Gazpromneft](https://img.shields.io/badge/-Gazpromneft-0047AB?logo=gazprom&logoColor=white)
+
