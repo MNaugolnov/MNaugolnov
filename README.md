@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Data Science in Oil & Gas**
 - 💬 Ask me about **Data Science & Machine Learning in Oil & Gas**
 
-My other pages: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile), [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/your-profile), [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
+My other pages: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-naugolnov/), [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mikhail-Naugolnov), [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
 ## 🚀 Skills  
 **Languages:**  
