@@ -9,26 +9,6 @@ I work at the intersection of upstream geoscience, reservoir engineering and dat
 - 🎓 PhD candidate · Saint Petersburg Mining University (petroleum engineering, economics & management)
 - 📚 40+ publications · 3 registered software programs · 1 patent application
 
----
-
-## 🔬 Research ⇄ 💻 Digital
-
-| Research question | What it became in code |
-|---|---|
-| How to manage waterflooding fast, without a full 3D model? *(block-factor analysis, displacement curves, CRM/CM)* | [`waterflood-cm-hybrid`](https://github.com/MNaugolnov/waterflood-cm-hybrid) — hybrid CM + displacement-curve + NN model with a Dash UI |
-| How complex is a reservoir, and which reserves stay undeveloped? *(Reservoir Complexity Index)* | RCI workflows for West Siberia and the Pannonian Basin |
-| What is geological uncertainty worth? *(probabilistic economics, Value of Information)* | [`grr_res_pred`](https://github.com/MNaugolnov/grr_res_pred) — resource prediction for exploration |
-| Can ML replace costly measurements and manual interpretation? | Virtual flow meter for ESP, lithology & S-wave prediction, seismic inpainting, first-break picking |
-| How does digitalization change business processes? | Digital Sand Control, SQL-based workover recommender, citizen-data-scientist toolbox |
-
-## 📌 Featured repositories
-
-- **[waterflood-cm-hybrid](https://github.com/MNaugolnov/waterflood-cm-hybrid)** — open hybrid waterflood model (Python, Dash, MIT)
-- **[oilinj](https://github.com/MNaugolnov/oilinj)** — <!-- TODO: one line, e.g. "Oil Engineering Excel add-in: releases & docs" -->
-- **[grr_res_pred](https://github.com/MNaugolnov/grr_res_pred)** — exploration resource prediction (notebooks)
-- **[hydrogeolab](https://github.com/MNaugolnov/hydrogeolab)** — toolkit for hydrogeologists: processing, calculations, visualization
-- **[vba_level1](https://github.com/MNaugolnov/vba_level1)** — beginner course "VBA in Excel: Level 1"
-
 ## 📄 Selected publications
 
 - *New Approach to Estimate Reservoir Complexity Index for West Siberian Fields* — SPE RPTC, 2017
