@@ -15,7 +15,6 @@ I work at the intersection of upstream geoscience, reservoir engineering and dat
 - *Cost-Engineering Waterflooding Management Methods* — SPE RPTC, 2018
 - *Factor analysis of well-intervention success as a tool to improve geological and simulation models* — PROneft', 2019
 - *Should We Waterflood Low Permeable Reservoirs?* — IPTC, 2020
-- *ML Lifecycle of Data-Driven Virtual Flow Meter: Case Study Petroleum Industry of Serbia* — EAGE Digitalization, 2024 · [doi:10.3997/2214-4609.202439106](https://doi.org/10.3997/2214-4609.202439106)
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=zwcguRsAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Mikhail-Naugolnov) · [eLibrary](https://www.elibrary.ru/author_items.asp?authorid=620460)
 
